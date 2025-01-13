@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JanneHarjamaki
 - 👀 I’m interested in creating new ideas and business possibilities
-- 🌱 I’m currently learning Neo4j
 - 💞️ I’m looking to collaborate on new ideas and business possibilities
 - 📫 How to reach me ... just google me ;)
 
